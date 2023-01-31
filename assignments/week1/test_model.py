@@ -9,6 +9,7 @@ a holdout test suite that will be used to evaluate your code.
 
 import inspect
 import numpy as np
+import model
 from model import LinearRegression, GradientDescentLinearRegression
 import pytest
 
